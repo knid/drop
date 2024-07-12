@@ -1,6 +1,6 @@
 # Drop
 
-Transfer files securely while using power of ssh.
+Transfer files securely using power of ssh.
 
 ## Usage
 
