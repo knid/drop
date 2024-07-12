@@ -8,7 +8,7 @@ Transfer files securely while using power of ssh.
 
 ```bash
 $ drop -h
-usage: ./main <PORT> <KEYFILE>
+usage: ./drop <PORT> <KEYFILE>
 $ drop 2222 keys/id_ed25519
 2024/07/12 03:01:32 Drop v0.0.1
 2024/07/12 03:01:32 Listening Port: 2222
